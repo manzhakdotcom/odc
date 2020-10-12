@@ -7,7 +7,7 @@ __pycache__/
 *$py.class
 
 # SQLite3 database
-*.sqlite
+*.sqlite3
 
 # Node modules
 node_modules/
